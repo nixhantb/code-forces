@@ -6,3 +6,4 @@
 6. https://codeforces.com/problemset/problem/202/A (LLSP)
 7. https://codeforces.com/problemset/problem/181/A
 8. https://codeforces.com/problemset/problem/177/A1
+9. https://codeforces.com/problemset/problem/158/A
