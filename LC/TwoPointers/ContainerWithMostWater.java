@@ -26,10 +26,7 @@ public class ContainerWithMostWater {
                 y_right=i;
             }
         }
-        System.out.println(rightMax);
-        System.out.println(leftMax);
-        System.out.println(x_left);
-        System.out.println(y_right);
+        
         return (rightMax)* (y_right-x_left);
     }
 
